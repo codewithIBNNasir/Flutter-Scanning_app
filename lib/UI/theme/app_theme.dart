@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 class AppTheme {
-  // Color Palette - Dark Futuristic Neon
+ 
   static const Color background = Color(0xFF080C14);
   static const Color surface = Color(0xFF0F1825);
   static const Color surfaceElevated = Color(0xFF162033);
@@ -21,14 +21,13 @@ class AppTheme {
   static const Color border = Color(0xFF1E2D3D);
   static const Color borderGlow = Color(0xFF00E5FF22);
 
-  // Feature Colors
+
   static const Color cameraColor = Color(0xFF00E5FF);
   static const Color fingerprintColor = Color(0xFF7C4DFF);
   static const Color audioColor = Color(0xFF00E676);
   static const Color videoColor = Color(0xFFFF6D00);
   static const Color qrColor = Color(0xFFE040FB);
 
-  // Gradients
   static const LinearGradient cameraGradient = LinearGradient(
     colors: [Color(0xFF00B8D4), Color(0xFF006064)],
     begin: Alignment.topLeft,

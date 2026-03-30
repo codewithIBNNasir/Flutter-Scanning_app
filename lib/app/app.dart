@@ -1,4 +1,3 @@
-
 import 'package:scanner/UI/Home/home_view.dart';
 import 'package:scanner/UI/audio/Audio_view.dart';
 import 'package:scanner/UI/audio/Qrcode_view.dart';
